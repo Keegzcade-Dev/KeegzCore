@@ -1,10 +1,6 @@
-# keegzcore
+# Keegzcore
 Universal arcade-input controller for accessible gaming and rehab.
 Built by KeegzCade (YouTube).
-
-# PROGRESS
-
-Last updated: 2026-11-25
 
 ## Done
 - Keegzcade Universal Controller V1 schematic (KiCad): RP2350A, USB-C, 24 digital + 4 analog inputs, MIDI/HID, GameCube connector, RGB LED, buzzer
