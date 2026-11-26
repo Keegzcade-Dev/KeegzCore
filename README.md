@@ -3,8 +3,8 @@ Universal arcade-input controller for accessible gaming and rehab.
 Built by KeegzCade (YouTube).
 
 ## Status
-- V1 (RP2350A): Keegzcade Universal Controller V1 schematic (KiCad) only, rev 1.0. Never fabricated, since V2
-  changed too much.
+- V1 (RP2350A): Keegzcade Universal Controller V1 schematic (KiCad) only, rev 1.0.
+  
   ## Parts used (V1)
     **Core**
     U1: RP2350A microcontroller
